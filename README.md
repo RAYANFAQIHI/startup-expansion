@@ -14,13 +14,13 @@ This project analyzes the performance of startups across U.S. states and regions
 The analysis combines Python (Pandas & NumPy) for data cleaning and computation, and Power BI for visualization and dashboard reporting.
 
 ##  Tools & Technologies
-🐍 Python — Data preparation & calculations
+ Python — Data preparation & calculations
 
-📊 Power BI — Interactive dashboards and visualization
+ Power BI — Interactive dashboards and visualization
 
-📦 Pandas, NumPy — Data analysis
+ Pandas, NumPy — Data analysis
 
-📁 CSV Dataset: startups-expansion-modified.csv
+ CSV Dataset: startups-expansion-modified.csv
 ##  Steps Performed
 1. **Data Preparation**
    - Loaded startup dataset using Pandas  
