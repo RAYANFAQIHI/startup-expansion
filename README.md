@@ -1,4 +1,5 @@
 # Project: Startups Expansion Analysis
+<img width="1329" height="749" alt="Screenshot 2025-10-24 093159" src="https://github.com/user-attachments/assets/8d41368b-8af3-4295-ac7e-140d982bde1e" />
 
 ## Overview
 
